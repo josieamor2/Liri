@@ -31,11 +31,11 @@ This runs the song written on the random.text file through the spotify-this-song
 
 ## What I Used
 
-*Node.js
-*Twitter NPM Package
-*Spotify NPM Package
-*Request NPM Package
-*OMDB API
+* Node.js
+* Twitter NPM Package
+* Spotify NPM Package
+* Request NPM Package
+* OMDB API
 
 ## Creator
 
