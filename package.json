@@ -1,0 +1,27 @@
+{
+  "name": "Liri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josieamor2/Liri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josieamor2/Liri/issues"
+  },
+  "homepage": "https://github.com/josieamor2/Liri#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "nodemon": "^1.18.3",
+    "npm": "^6.2.0",
+    "twitter": "^1.7.1"
+  }
+}
